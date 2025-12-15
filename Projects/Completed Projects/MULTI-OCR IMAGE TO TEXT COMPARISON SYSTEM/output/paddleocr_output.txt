@@ -1,0 +1,66 @@
+
+=== IMAGE: image 10.jpg ===
+Time taken: 3.54 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image 11.jpg ===
+Time taken: 8.89 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image 2.png ===
+Time taken: 6.61 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image 3.jpg ===
+Time taken: 16.12 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image 4.png ===
+Time taken: 15.93 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image 5.jpg ===
+Time taken: 3.41 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image 6.jpg ===
+Time taken: 3.78 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image 7.jpg ===
+Time taken: 2.31 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image 8.png ===
+Time taken: 7.95 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image 9.jpg ===
+Time taken: 6.14 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
+
+=== IMAGE: image1.jpg ===
+Time taken: 16.02 seconds
+Extracted Text:
+n a o t o e e e e e e e i e e
+--------------------------------------------------
