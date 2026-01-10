@@ -1,0 +1,13 @@
+image,engine,time
+excel-template.jpg,Tesseract,0.18
+excel-template.jpg,EasyOCR,7.39
+excel-template.jpg,PaddleOCR,1.36
+istockphoto-914023158-1024x1024.jpg,Tesseract,0.26
+istockphoto-914023158-1024x1024.jpg,EasyOCR,11.53
+istockphoto-914023158-1024x1024.jpg,PaddleOCR,1.63
+Washing Machine _page-0001.jpg,Tesseract,0.75
+Washing Machine _page-0001.jpg,EasyOCR,22.39
+Washing Machine _page-0001.jpg,PaddleOCR,2.51
+Washing Machine _page-0002.jpg,Tesseract,0.52
+Washing Machine _page-0002.jpg,EasyOCR,19.33
+Washing Machine _page-0002.jpg,PaddleOCR,1.55
